@@ -1,0 +1,24 @@
+{
+  "name": "node-app-template",
+  "version": "1.0.0",
+  "description": "Get started with building a Node Express application quickly using this template.",
+  "dependencies": {
+    "express": "^4.16.2",
+    "webpack": "^3.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunilab/node-app-template"
+  },
+  "author": "Sunil Abhyankar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunilab/node-app-template/issues"
+  },
+  "homepage": "https://github.com/sunilab/node-app-template#readme"
+}
